@@ -32,17 +32,17 @@ function Home() {
       <div className='projects'>
         <h1>My Projects</h1>
         <div className='projectList'>
-          <a href='https://github.com/CelesTech03/Bookworm' target="_blank">
+          <a href='https://github.com/CelesTech03/Bookworm' target="_blank" alt="Bookworm Image">
             <ProjectItem name="Book Finder App" image={Bookworm} /></a>
-          <a href='https://github.com/TienNguyen93/ems-frontend' target="_blank">
+          <a href='https://github.com/TienNguyen93/ems-frontend' target="_blank" alt="EMS Image">
             <ProjectItem name="Employee Management System" image={Ems} /></a>
-          <a href='https://github.com/CelesTech03/Droplet' target="_blank">
+          <a href='https://github.com/CelesTech03/Droplet' target="_blank" alt="Game Image">
             <ProjectItem name="Game Website" image={Droplet} /></a>
-          <a href='https://github.com/CelesTech03/Restaurant-Website' target="_blank">
+          <a href='https://github.com/CelesTech03/Restaurant-Website' target="_blank" alt="Restaurant Image">
             <ProjectItem name="Restaurant Website" image={Restaurant} /></a>
-          <a href='https://github.com/CelesTech03/Twitter-Clone' target="_blank">
+          <a href='https://github.com/CelesTech03/Twitter-Clone' target="_blank" alt="Twitter Image">
             <ProjectItem name="Twitter Clone App" image={Twitter} /></a>
-          <a href='https://github.com/CelesTech03/Instagram-Clone' target="_blank">
+          <a href='https://github.com/CelesTech03/Instagram-Clone' target="_blank" alt="Instagram Image">
             <ProjectItem name="Instagram Clone App" image={Instagram} /></a>
         </div>
       </div>
