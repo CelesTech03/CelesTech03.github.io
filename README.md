@@ -2,7 +2,7 @@
 
 ## Website: https://celestech03.github.io/
 
-Created a work in progress Portfolio Website. A fully responsive website that showcases some of my projects.
+Created a work in progress Portfolio. A fully responsive website that showcases some of my projects.
 
 # Getting Started with Create React App
 
